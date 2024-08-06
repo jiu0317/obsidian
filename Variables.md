@@ -1,6 +1,8 @@
 다트 복습
 for flutter
 
++git 사용 습관 들이기..
+
 ## 컴파일
 
 다트는 개발 도중에는 VM에서 JIT(Just In Time)으로 컴파일 한다. 
